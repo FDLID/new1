@@ -1,13 +1,5 @@
 /*
-* MHANKBAR2 <which has a script
-* AFFIS <dev
-* FADHILGRPHY <partner
-* FDL <author/penulis
-* MYBOT TEAM <fork
-* NGAKU2 SC INI PUNYA LU ? MAU DI TEBAS?
-* KALO MAU REMAKE BOLEH AJA, TAPI NGOTAK..?
-* KASIH AUTHORNYA.
-* JANGAN CUMA NUMPANG NAMA DOANG.
+KASIH CAP BY FDL :v
 */
 
 const {
@@ -34,7 +26,6 @@ const imageToBase64 = require('image-to-base64')
 const axios = require('axios')
 const { color, bgcolor } = require('./lib/color')
 const { donasi } = require('./lib/donasi')
-const { listhargadmff } = require('./lib/listhargadmff')
 const { fetchJson } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
 const { exec, spawn } = require("child_process")
