@@ -343,7 +343,7 @@ function addMetadata(packname, author) {
 const client = new WAConnection()
    client.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-   console.log(color('[','white'),color('©','red'),color(']','white'),color('SCAN QR CODE !','white'),color('SUBSCRIBE','yellow'),color('stardustlrlr','aqua'))
+   console.log(color('[','white'),color('©','red'),color(']','white'),color('SCAN QR CODE !','white'),color('','yellow'),color('','aqua'))
 })
 
 client.on('credentials-updated', () => {
