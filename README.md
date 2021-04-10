@@ -45,13 +45,6 @@
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
  </p>
 
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`FDL GANZ`](https://github.com/FDLBOT)
-
-</p> 
-
 ## sosial media
 
 
